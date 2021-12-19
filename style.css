@@ -64,5 +64,6 @@ button {
 } 
 
 Button:active {
-background: lightblue; 
+background: aliceblue;
+  font-style: italic;
 }
