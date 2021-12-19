@@ -64,4 +64,5 @@ button {
 } 
 
 Button:active {
-background: #F4C7FF; }
+background: lightblue; 
+}
