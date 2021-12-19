@@ -39,7 +39,21 @@ h2 {
   text-transform: none;
 }
 
-.myButton {
-color: rgb(0, 0, 0); font-size: 24px; line-height: 24px; padding: 20px; border-top-left-radius: 37px; border-top-right-radius: 37px; border-bottom-right-radius: 37px; border-bottom-left-radius: 37px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-transform: none; background-image: radial-gradient(rgb(204, 204, 204) 0%, rgb(232, 239, 255) 50%, rgb(244, 199, 255) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
-.myButton:active {
+button {
+color: rgb(0, 0, 0); 
+ font-size: 24px; 
+  line-height: 24px; 
+  padding: 20px; 
+  border-top-left-radius: 37px; 
+  border-top-right-radius: 37px; 
+  border-bottom-right-radius: 37px; 
+  border-bottom-left-radius: 37px; 
+  font-family: Georgia, serif; 
+  font-weight: normal; 
+  text-decoration: none; 
+  font-style: normal; 
+  font-variant-ligatures: normal; 
+  font-variant-caps: normal; font-variant-east-asian: normal; font-variant-position: normal; text-transform: none; background-image: radial-gradient(rgb(204, 204, 204) 0%, rgb(232, 239, 255) 50%, rgb(244, 199, 255) 100%); box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+
+Button:active {
 background: #F4C7FF; }
