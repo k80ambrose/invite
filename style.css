@@ -1,6 +1,22 @@
 html {
-  cursor: zoom-in;
+  cursor: grab;
 }
 body {
-  background-color: Linen;
+  background: #FFFFFF;
+  background: -moz-radial-gradient(center, #FFFFFF 0%, #FFFFFF 50%, #FFE9E6 100%);
+  background: -webkit-radial-gradient(center, #FFFFFF 0%, #FFFFFF 50%, #FFE9E6 100%);
+  background: radial-gradient(ellipse at center, #FFFFFF 0%, #FFFFFF 50%, #FFE9E6 100%);
+}
+
+h1 {
+  font-family: Georgia, serif;
+  font-size: 30px;
+  letter-spacing: -1px;
+  word-spacing: 3px;
+  color: #000000;
+  font-weight: bold;
+  text-decoration: none;
+  font-style: italic;
+  font-variant: normal;
+  text-transform: none;
 }
