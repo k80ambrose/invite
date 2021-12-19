@@ -1,11 +1,16 @@
 html {
-  cursor: grabbing;
+  cursor: help;
 }
+
 body {
   background: #FFFFFF;
   background: -moz-radial-gradient(center, #FFFFFF 0%, #FFFFFF 50%, #FFE9E6 100%);
   background: -webkit-radial-gradient(center, #FFFFFF 0%, #FFFFFF 50%, #FFE9E6 100%);
   background: radial-gradient(ellipse at center, #FFFFFF 0%, #FFFFFF 50%, #FFE9E6 100%);
+}
+
+img {
+  cursor: grab;
 }
 
 h1 {
